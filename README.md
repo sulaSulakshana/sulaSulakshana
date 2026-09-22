@@ -1,22 +1,23 @@
-# 👋 Hi, I'm Nadun Sulakshana
+👋 Hi, I'm Nadun Sulakshana
 
-### QA ENGINEER | SOFTWARE DEVELOPER
+ 💻 SOFTWARE DEVELOPER | ERP FUNCTIONAL CONSULTANT
 
-🎓 Higher National Diploma in Information Technology (HNDIT) Student at SLIATE
+🎓 Higher National Diploma in Information Technology (HNDIT) Student at **SLIATE**
 
 📍 Sri Lanka
 📧 [nadunsulakshana8@gmail.com](mailto:nadunsulakshana8@gmail.com)
-📱 0760942591 | 0711173154
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an HNDIT student at the **Sri Lanka Institute of Advanced Technological Education (SLIATE)** with a strong foundation in **software development, web technologies, and software quality practices**.
+I am an **HNDIT student at the Sri Lanka Institute of Advanced Technological Education (SLIATE)** with a strong interest in **Software Development and ERP Functional Consulting**.
 
-I am interested in both **Software Development and Quality Assurance**, with a focus on developing reliable, user-friendly, and high-quality software solutions.
+I have a foundation in **web application development, database management, business process analysis, system requirements, and ERP concepts**.
 
-I enjoy learning new technologies, solving problems, building practical applications, and improving software quality through testing and validation.
+I enjoy building practical software solutions that solve real business problems. I am interested in understanding business requirements, designing system workflows, developing applications, and improving business processes through technology.
+
+Currently, I am developing my skills in **React, Node.js, C#, MySQL, REST APIs, ERP concepts, and business process analysis**, while learning more about **Odoo ERP and functional consulting**.
 
 ---
 
@@ -31,21 +32,22 @@ I enjoy learning new technologies, solving problems, building practical applicat
 <img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🌐 Web Technologies
+### 🌐 Web Development
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Development
+### ⚙️ Backend & APIs
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
@@ -53,17 +55,27 @@ I enjoy learning new technologies, solving problems, building practical applicat
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### 🧪 Software Quality & Testing
+### 🏢 ERP & Business Analysis
 
-* Software Testing Fundamentals
-* Test Case Design
-* Software Validation
-* Bug Identification
-* Quality Assurance Practices
+* Basic ERP Concepts
+* Business Process Analysis
+* Business Problem Identification
+* Requirements Analysis
+* System Analysis
+* Business Process Automation
+* Basic ERP Documentation
+* Basic knowledge of ERP modules:
+
+  * Sales
+  * Purchase
+  * Inventory
+  * Accounting
+  * CRM
+  * HR
+* Odoo ERP – Currently Learning
 
 ### 🔧 Tools
 
@@ -71,8 +83,8 @@ I enjoy learning new technologies, solving problems, building practical applicat
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
 ---
@@ -85,19 +97,22 @@ I enjoy learning new technologies, solving problems, building practical applicat
 
 **Technologies:** React.js | Node.js | Express.js | MySQL | REST API | QR Code | Email Automation | PDF Generation
 
-A web-based Vehicle Service Management System developed to manage vehicle service bookings, billing, inventory, and workshop operations.
+A web-based management system developed to improve vehicle service booking and workshop operations.
 
-**Key Features:**
+**Key Areas:**
 
-* Customer and vehicle registration
-* Vehicle service booking
+* Customer and vehicle management
+* Service booking management
+* Technician activity management
+* Spare parts management
+* Inventory management
+* Billing and invoice generation
 * QR-based booking confirmation
 * Email notifications
-* Technician service management
-* Spare parts management
-* Automatic PDF invoice generation
-* Inventory management
-* Centralized admin dashboard
+* Role-based system functions
+* Centralized data management
+
+The project involved analyzing business processes such as customer registration, service booking, service processing, inventory handling, and invoice generation.
 
 ---
 
@@ -107,17 +122,55 @@ A web-based Vehicle Service Management System developed to manage vehicle servic
 
 **Technologies:** C# | .NET Framework | Windows Forms | SQL Database
 
-A desktop-based management system developed to manage mineral water stock, customer records, daily income, and expenses.
+A desktop-based management system developed to support daily business operations and maintain business records.
 
-**Key Features:**
+**Key Areas:**
 
-* Secure admin login and registration
 * Customer management
-* Water stock management
+* Stock management
 * Water inflow and outflow tracking
-* Daily income and expense management
+* Income and expense management
 * Daily profit calculation
-* Customer consumption management
+* Administrative functions
+* Business record management
+* Reporting-related features
+
+---
+
+## 🎯 Career Interests
+
+I am interested in opportunities related to:
+
+* 💻 **Software Developer**
+* 🏢 **ERP Functional Consultant**
+* 🔧 **ERP Implementation / Support**
+* 🌐 **Web Developer**
+* 🗄️ **Backend Developer**
+* 📊 **Business & System Analysis**
+
+---
+
+## 📚 Currently Learning
+
+* Odoo ERP
+* ERP Functional Processes
+* Business Process Analysis
+* Requirements Analysis
+* Advanced React & Node.js
+* REST API Development
+* Software Development Best Practices
+
+---
+
+## 💡 Soft Skills
+
+* Problem Solving
+* Analytical Thinking
+* Communication
+* Teamwork
+* Time Management
+* Quick Learning
+* Adaptability
 
 ---
 
@@ -131,26 +184,10 @@ University of Moratuwa
 
 ---
 
-## 🎯 Career Interests
+## 🎓 Education
 
-I am interested in opportunities related to:
-
-* 🧪 QA Engineer
-* 💻 Software Developer
-* 🌐 Web Developer
-* 🔧 Software Testing
-* 🗄️ Backend Development
-
----
-
-## 💡 Soft Skills
-
-* Problem Solving
-* Communication
-* Teamwork
-* Time Management
-* Quick Learning
-* Adaptability
+**Higher National Diploma in Information Technology (HNDIT)**
+Sri Lanka Institute of Advanced Technological Education (SLIATE)
 
 ---
 
@@ -191,5 +228,5 @@ I am interested in opportunities related to:
 ### ⭐ Thanks for visiting my profile!
 
 <p align="center">
-<i>Always learning • Always improving • Always building</i>
+<i>Building software • Understanding business • Improving processes</i>
 </p>
