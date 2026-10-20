@@ -7,7 +7,6 @@
 📍 Sri Lanka
 📧 [nadunsulakshana8@gmail.com](mailto:nadunsulakshana8@gmail.com)
 
----
 
 ## 👨‍💻 About Me
 
@@ -65,9 +64,7 @@ Currently, I am developing my skills in **React, Node.js, C#, MySQL, REST APIs, 
 * Business Problem Identification
 * Requirements Analysis
 * System Analysis
-* Business Process Automation
-* Basic ERP Documentation
-* Basic knowledge of ERP modules:
+
 
   * Sales
   * Purchase
@@ -153,7 +150,6 @@ I am interested in opportunities related to:
 ## 📚 Currently Learning
 
 * Odoo ERP
-* ERP Functional Processes
 * Business Process Analysis
 * Requirements Analysis
 * Advanced React & Node.js
