@@ -1,6 +1,6 @@
 👋 Hi, I'm Nadun Sulakshana
 
- 💻 SOFTWARE DEVELOPER | ERP FUNCTIONAL CONSULTANT
+ 💻 SOFTWARE DEVELOPER 
 
 🎓 Higher National Diploma in Information Technology (HNDIT) Student at **SLIATE**
 
@@ -57,7 +57,7 @@ Currently, I am developing my skills in **React, Node.js, C#, MySQL, REST APIs, 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### 🏢 ERP & Business Analysis
+### 🏢 Business Analysis
 
 * Basic ERP Concepts
 * Business Process Analysis
@@ -72,7 +72,6 @@ Currently, I am developing my skills in **React, Node.js, C#, MySQL, REST APIs, 
   * Accounting
   * CRM
   * HR
-* Odoo ERP – Currently Learning
 
 ### 🔧 Tools
 
