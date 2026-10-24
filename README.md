@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am an **HNDIT student at the Sri Lanka Institute of Advanced Technological Education (SLIATE)** with a strong interest in **Software Development and ERP Functional Consulting**.
+I am an **HNDIT student at the Sri Lanka Institute of Advanced Technological Education (SLIATE)** with a strong interest in Software Development.
 
 I have a foundation in **web application development, database management, business process analysis, system requirements.
 
