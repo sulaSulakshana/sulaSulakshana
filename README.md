@@ -12,7 +12,7 @@
 
 I am an **HNDIT student at the Sri Lanka Institute of Advanced Technological Education (SLIATE)** with a strong interest in **Software Development and ERP Functional Consulting**.
 
-I have a foundation in **web application development, database management, business process analysis, system requirements, and ERP concepts**.
+I have a foundation in **web application development, database management, business process analysis, system requirements.
 
 I enjoy building practical software solutions that solve real business problems. I am interested in understanding business requirements, designing system workflows, developing applications, and improving business processes through technology.
 
@@ -64,8 +64,6 @@ Currently, I am developing my skills in **React, Node.js, C#, MySQL, REST APIs, 
 * Business Problem Identification
 * Requirements Analysis
 * System Analysis
-
-
   * Sales
   * Purchase
   * Inventory
@@ -110,7 +108,6 @@ A web-based management system developed to improve vehicle service booking and w
 
 The project involved analyzing business processes such as customer registration, service booking, service processing, inventory handling, and invoice generation.
 
----
 
 ### 💧 Mineral Water Management System
 
@@ -138,24 +135,18 @@ A desktop-based management system developed to support daily business operations
 I am interested in opportunities related to:
 
 * 💻 **Software Developer**
-* 🏢 **ERP Functional Consultant**
 * 🔧 **ERP Implementation / Support**
 * 🌐 **Web Developer**
 * 🗄️ **Backend Developer**
 * 📊 **Business & System Analysis**
 
----
-
 ## 📚 Currently Learning
 
-* Odoo ERP
 * Business Process Analysis
 * Requirements Analysis
 * Advanced React & Node.js
 * REST API Development
 * Software Development Best Practices
-
----
 
 ## 💡 Soft Skills
 
@@ -167,7 +158,6 @@ I am interested in opportunities related to:
 * Quick Learning
 * Adaptability
 
----
 
 ## 📜 Certifications
 
@@ -177,14 +167,11 @@ University of Moratuwa
 🎓 **Web Design for Beginners**
 University of Moratuwa
 
----
 
 ## 🎓 Education
 
 **Higher National Diploma in Information Technology (HNDIT)**
 Sri Lanka Institute of Advanced Technological Education (SLIATE)
-
----
 
 ## 📊 GitHub Statistics
 
@@ -196,7 +183,7 @@ Sri Lanka Institute of Advanced Technological Education (SLIATE)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaSulakshana&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+
 
 ## 🔥 GitHub Streak
 
