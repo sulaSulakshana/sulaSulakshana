@@ -109,27 +109,6 @@ A web-based management system developed to improve vehicle service booking and w
 The project involved analyzing business processes such as customer registration, service booking, service processing, inventory handling, and invoice generation.
 
 
-### 💧 Mineral Water Management System
-
-**September 2024 – December 2024**
-
-**Technologies:** C# | .NET Framework | Windows Forms | SQL Database
-
-A desktop-based management system developed to support daily business operations and maintain business records.
-
-**Key Areas:**
-
-* Customer management
-* Stock management
-* Water inflow and outflow tracking
-* Income and expense management
-* Daily profit calculation
-* Administrative functions
-* Business record management
-* Reporting-related features
-
----
-
 ## 🎯 Career Interests
 
 I am interested in opportunities related to:
