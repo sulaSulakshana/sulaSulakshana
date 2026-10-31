@@ -54,13 +54,12 @@ Currently, I am developing my skills in **React, Node.js, C#, MySQL, REST APIs, 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
 </p>
 
 ### 🏢 Business Analysis
 
 * Basic ERP Concepts
-* Business Process Analysis
 * Business Problem Identification
 * Requirements Analysis
 * System Analysis
